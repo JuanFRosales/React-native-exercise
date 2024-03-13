@@ -18,3 +18,7 @@ This project is a rescue effort from a previous lost project. It's a React Nativ
 2. Install Expo CLI globally by running `npm install -g expo-cli`.
 3. Install project dependencies by navigating to the project directory and running `npm install`.
 
+#Screenshots of app
+
+##profile
+![Profile](screenshots/profile.png)
