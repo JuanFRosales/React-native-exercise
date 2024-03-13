@@ -21,4 +21,4 @@ This project is a rescue effort from a previous lost project. It's a React Nativ
 #Screenshots of app
 
 ##profile
-![Profile](screenshots/profile.png)
+(Screenshots/profile.PNG)
